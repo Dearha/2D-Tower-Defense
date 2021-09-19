@@ -13,3 +13,4 @@ Add feature Pause
 ##
 ##
 Bug enemy left decrease even when paused
+## File build in release
